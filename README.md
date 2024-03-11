@@ -1,3 +1,3 @@
 <div align="center">
-  ![image](https://github.com/INRGI/goit-node-cli/assets/120032162/5ab9c94d-30d8-4386-8d52-ca5f8b06aac7)
+  <img src="[https://vetores.org/d/typescript.svg](https://w7.pngwing.com/pngs/416/280/png-transparent-node-js-express-js-javascript-redis-mean-node-js-angle-text-service-thumbnail.png)" alt="Node js icon" width="100" height="100">
 </div>
