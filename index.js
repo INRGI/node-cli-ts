@@ -1,4 +1,4 @@
-import { program } from "commander";
+const {program} = require("commander");
 
 const contacts = require("./contacts");
 
